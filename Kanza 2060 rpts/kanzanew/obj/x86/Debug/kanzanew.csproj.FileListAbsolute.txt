@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2010\Projects\kanzanew\kanzanew\bin\Debug\kanzanew.exe.config
+c:\Users\USER\Documents\Visual Studio 2010\Projects\kanzanew\kanzanew\bin\Debug\kanzanew.exe
+c:\Users\USER\Documents\Visual Studio 2010\Projects\kanzanew\kanzanew\bin\Debug\kanzanew.pdb
+c:\Users\USER\Documents\Visual Studio 2010\Projects\kanzanew\kanzanew\obj\x86\Debug\kanzanew.Form1.resources
+c:\Users\USER\Documents\Visual Studio 2010\Projects\kanzanew\kanzanew\obj\x86\Debug\kanzanew.Properties.Resources.resources
+c:\Users\USER\Documents\Visual Studio 2010\Projects\kanzanew\kanzanew\obj\x86\Debug\kanzanew.csproj.GenerateResource.Cache
+c:\Users\USER\Documents\Visual Studio 2010\Projects\kanzanew\kanzanew\obj\x86\Debug\kanzanew.exe
+c:\Users\USER\Documents\Visual Studio 2010\Projects\kanzanew\kanzanew\obj\x86\Debug\kanzanew.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\kanzanew\kanzanew\obj\x86\Debug\kanzanew.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\bin\Debug\kanzanew.exe.config
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\obj\x86\Debug\kanzanew.exe
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\obj\x86\Debug\kanzanew.pdb
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\bin\Debug\kanzanew.exe
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\bin\Debug\kanzanew.pdb
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\obj\x86\Debug\kanzanew.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\obj\x86\Debug\kanzanew.Properties.Resources.resources
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\obj\x86\Debug\kanzanew.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\A3\Project Source\Kanza 2060 rpts\kanzanew\obj\x86\Debug\kanzanew.frmMain.resources

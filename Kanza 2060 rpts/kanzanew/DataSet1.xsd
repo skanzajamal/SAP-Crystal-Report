@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="reserveNo" msprop:Generator_ColumnVarNameInTable="columnreserveNo" msprop:Generator_ColumnPropNameInRow="reserveNo" msprop:Generator_ColumnPropNameInTable="reserveNoColumn" msprop:Generator_UserColumnName="reserveNo" type="xs:string" minOccurs="0" />
+              <xs:element name="nights" msprop:Generator_ColumnVarNameInTable="columnnights" msprop:Generator_ColumnPropNameInRow="nights" msprop:Generator_ColumnPropNameInTable="nightsColumn" msprop:Generator_UserColumnName="nights" type="xs:string" minOccurs="0" />
+              <xs:element name="rateType" msprop:Generator_ColumnVarNameInTable="columnrateType" msprop:Generator_ColumnPropNameInRow="rateType" msprop:Generator_ColumnPropNameInTable="rateTypeColumn" msprop:Generator_UserColumnName="rateType" type="xs:string" minOccurs="0" />
+              <xs:element name="roomrate" msprop:Generator_ColumnVarNameInTable="columnroomrate" msprop:Generator_ColumnPropNameInRow="roomrate" msprop:Generator_ColumnPropNameInTable="roomrateColumn" msprop:Generator_UserColumnName="roomrate" type="xs:string" minOccurs="0" />
+              <xs:element name="paytype" msprop:Generator_ColumnVarNameInTable="columnpaytype" msprop:Generator_ColumnPropNameInRow="paytype" msprop:Generator_ColumnPropNameInTable="paytypeColumn" msprop:Generator_UserColumnName="paytype" type="xs:string" minOccurs="0" />
+              <xs:element name="roomNo" msprop:Generator_ColumnVarNameInTable="columnroomNo" msprop:Generator_ColumnPropNameInRow="roomNo" msprop:Generator_ColumnPropNameInTable="roomNoColumn" msprop:Generator_UserColumnName="roomNo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
